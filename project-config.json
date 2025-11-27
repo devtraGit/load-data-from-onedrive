@@ -1,0 +1,13 @@
+{
+  "description" : "etl de chargement des données du one drive BUA dans une base données.",
+  "company" : "SanlamAllianz Participations",
+  "department" : "BI",
+  "metadataBaseFolder" : "${PROJECT_HOME}/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "${PROJECT_HOME}/datasets",
+  "enforcingExecutionInHome" : true,
+  "parentProjectName" : "default",
+  "config" : {
+    "variables" : [ ]
+  }
+}
